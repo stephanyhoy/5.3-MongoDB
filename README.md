@@ -18,11 +18,11 @@ La óptica necesita informatizar la gestión de los clientes, proveedores y vent
 
 Imagina que tenemos la siguiente interfaz gráfica, desde el punto de vista de un cliente de la Óptica. ¿Cómo diseñarías la base de datos que facilitara la información?
 
-![Diagrama de la Base de Datos](./Ejercicio1/imagen1PHP.jpg)
+![Interfaz gráfica](./imagen1PHP.jpg)
 
 
 ## Ejercicio 2
 
 ¿Y si el punto de vista de la interfaz fueran las gafas?
 
-![Diagrama de la Base de Datos](./Ejercicio2/imagen2PHP.jpg)
+![Interfaz gráfica](./imagen2PHP.jpg)
